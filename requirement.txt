@@ -1,0 +1,5 @@
+nltk
+num2words
+scikit-learn
+pymilvus
+gensim
