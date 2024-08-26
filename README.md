@@ -8,7 +8,7 @@
 3. Create environtment and download package
 - virtualenv env
 - (windows) env\Scripts\activate
-- pip install -r requiremnet.txt
+- pip install -r requirement.txt
 4. Create collection and index
 - python connect.py
 5. Insert data to collection
@@ -24,6 +24,6 @@
 3. Create environtment and download package
 - virtualenv env
 - (windows) env\Scripts\activate
-- pip install -r requiremnet.txt
+- pip install -r requirement.txt
 4. Query from collection
 - python main_izziz.py
