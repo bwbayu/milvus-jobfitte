@@ -19,7 +19,7 @@
 # How to run (Cloud) using zilliz, open-source cloud milvus vector database 
 ### Model embeddings that i use here is Sentence-BERT that we fine-tuning using job-cv dataset
 - [https://zilliz.com/cloud]
-1. Create collection and index in zilliz dashboard
+1. Create collection and index in zilliz dashboard, metric_type that i use in this project is COSINE 
 2. Create .env file that contains COLLECTION_NAME, ZILLIZ_API_KEY, and ZILLIZ_URI
 3. Create environtment and download package
 - virtualenv env
